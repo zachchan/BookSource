@@ -5,7 +5,7 @@ KindleEar配置文件，请务必修改开始两个配置（如果使用uploader
 """
 
 SRC_EMAIL = "zachchankindle@gmail.com"  #Your gmail account for sending mail to Kindle
-DOMAIN = "http://zachchanbook.appspot.com/" #Your domain of app
+DOMAIN = "http://book11-194710.appspot.com/" #Your domain of app
 
 TIMEZONE = 8  #Default timezone, you can modify it in webpage after deployed
 
@@ -13,8 +13,8 @@ DEFAULT_MASTHEAD = "mh_default.gif" #default masthead
 DEFAULT_COVER = "cv_default.jpg" #default cover, leave it empty will not add cover to book
 DEFAULT_COVER_BV = DEFAULT_COVER #default cover for merged-book, None indicates paste all covers into one, =DEFAULT_COVER enable the using of uploaded image.
 
-MY_FEEDS_TITLE = u'zachchanbook'
-MY_FEEDS_DESC = u'RSS delivering from zachchanbook'
+MY_FEEDS_TITLE = u'KindleEar'
+MY_FEEDS_DESC = u'RSS delivering from KindleEar'
 
 #default timeout for network connection
 CONNECTION_TIMEOUT = 60

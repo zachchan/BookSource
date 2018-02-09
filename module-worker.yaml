@@ -1,4 +1,4 @@
-application: zachchanbook
+application: book11-194710
 version: 1
 module: worker
 runtime: python27
